@@ -1,0 +1,28 @@
+{
+  "name": "lab-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeChicana/lab-ci-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JorgeChicana/lab-ci-js/issues"
+  },
+  "homepage": "https://github.com/JorgeChicana/lab-ci-js#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
