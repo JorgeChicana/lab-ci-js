@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",    
     "test": "jest"
   },
   "repository": {
@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/JorgeChicana/lab-ci-js#readme",
   "devDependencies": {
-    "jest": "^30.2.0"
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
   },
   "dependencies": {
     "express": "^5.1.0"
